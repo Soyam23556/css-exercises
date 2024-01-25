@@ -1,0 +1,13 @@
+.depth.positive{
+    background-color: black;
+    color: white;
+}
+
+.depth.negetive{
+    background-color: yellow;
+}
+
+.depth{
+    font-size: 28px;
+    font-family: "Times New Roman","Helvetica",sans-serif;
+}
